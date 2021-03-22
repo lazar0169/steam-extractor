@@ -1,0 +1,25 @@
+{
+  "name": "steam-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazar0169/steam-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazar0169/steam-extractor/issues"
+  },
+  "homepage": "https://github.com/lazar0169/steam-extractor#readme",
+  "dependencies": {
+    "got": "^11.8.2",
+    "jsdom": "^16.5.1"
+  }
+}
