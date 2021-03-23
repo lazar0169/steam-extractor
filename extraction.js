@@ -5,18 +5,6 @@ import { promisify } from 'util';
 import pkg from 'tough-cookie';
 const { CookieJar } = pkg;
 const { JSDOM } = jsdom;
-let raw = fs.readFileSync('games.json');
-let games = JSON.parse(raw);
-
-const genres = [];
-
-for (let game of games) {
-    for  (let genre of game.genre) {
-        if (!genres.includes(genre)) genres.push(genre);
-    }
-}
-
-console.log('All genres:', genres);
 
 const getSite = async (site) => {
     const cookieJar = new CookieJar();
@@ -34,13 +22,20 @@ const getElemFromSite = (dom, selector, all = false) => {
 }
 
 const populate = async () => {
+    const raw = fs.readFileSync('list.json');
+    const list = JSON.parse(raw);
+    let games = [];
     let counter = 1;
     try {
-        for (let game of games) {
+        for (let game of list) {
             console.log(`${counter}. ${game.name}`);
             let genres = [];
             const dom = await getSite(game.url);
-            const desc = getElemFromSite(dom, '.game_description_snippet').textContent.trim();
+            const descDom = getElemFromSite(dom, '.game_description_snippet');
+            if (!descDom) {
+                continue;
+            }
+            const desc = descDom.textContent.trim();
             const priceDom = getElemFromSite(dom, '.game_purchase_price.price');
             const genreDom = getElemFromSite(dom, '.details_block>a', true);
             for (let element of genreDom) {
@@ -64,19 +59,22 @@ const populate = async () => {
             game.description = desc;
             game.price = price;
             game.genre = genres;
+            games.push(game);
             ++counter;
         }
     } catch (error) {
         console.error(error);
     }
+    return games;
 }
 
-const writeGames = async () => {
-    await populate();
-    fs.writeFileSync('populated.json', JSON.stringify(games));
+export const writeGames = async () => {
+    const games = await populate();
+    fs.writeFileSync('games.json', JSON.stringify(games));
+    fs.unlinkSync('list.json');
 }
 
-const get100games = async () => {
+export const get100games = async () => {
     let all = [];
     const dom = await getSite('https://store.steampowered.com/stats/Steam-Game-and-Player-Statistics?l=t'); 
     const children = await getElemFromSite(dom, '.gameLink', true);
@@ -90,8 +88,7 @@ const get100games = async () => {
     fs.writeFileSync('list.json', JSON.stringify(all)); 
 }
 
-// get100games();
-
-// writeGames();
-
-
+export default async () => {
+    await get100games();
+    await writeGames();
+}
