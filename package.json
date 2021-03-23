@@ -20,6 +20,7 @@
   "homepage": "https://github.com/lazar0169/steam-extractor#readme",
   "dependencies": {
     "got": "^11.8.2",
-    "jsdom": "^16.5.1"
+    "jsdom": "^16.5.1",
+    "tough-cookie": "^4.0.0"
   }
 }
