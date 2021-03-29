@@ -8,18 +8,18 @@ const { JSDOM } = jsdom;
 
 const getSite = async (site) => {
     const cookieJar = new CookieJar();
-	const setCookie = promisify(cookieJar.setCookie.bind(cookieJar));
-	await setCookie('birthtime=628470001', 'https://store.steampowered.com');
-	await setCookie('lastagecheckage=1-0-1990', 'https://store.steampowered.com');
-	await setCookie('wants_mature_content=1', 'https://store.steampowered.com');
+    const setCookie = promisify(cookieJar.setCookie.bind(cookieJar));
+    await setCookie('birthtime=628470001', 'https://store.steampowered.com');
+    await setCookie('lastagecheckage=1-0-1990', 'https://store.steampowered.com');
+    await setCookie('wants_mature_content=1', 'https://store.steampowered.com');
     const res = await got(site, { cookieJar });
     const dom = new JSDOM(res.body);
     return dom;
-}
+};
 
 const getElemFromSite = (dom, selector, all = false) => {
     return dom.window.document[all ? 'querySelectorAll' : 'querySelector'](selector);
-}
+};
 
 const populate = async () => {
     const raw = fs.readFileSync('list.json');
@@ -66,29 +66,29 @@ const populate = async () => {
         console.error(error);
     }
     return games;
-}
+};
 
 export const writeGames = async () => {
     const games = await populate();
     fs.writeFileSync('games.json', JSON.stringify(games));
     fs.unlinkSync('list.json');
-}
+};
 
 export const get100games = async () => {
     let all = [];
-    const dom = await getSite('https://store.steampowered.com/stats/Steam-Game-and-Player-Statistics?l=t'); 
+    const dom = await getSite('https://store.steampowered.com/stats/Steam-Game-and-Player-Statistics?l=t');
     const children = await getElemFromSite(dom, '.gameLink', true);
     for (let child of children) {
         all.push({
             id: Math.floor(Math.random() * 100000),
             name: child.textContent.trim(),
             url: child.getAttribute('href'),
-        })
+        });
     }
-    fs.writeFileSync('list.json', JSON.stringify(all)); 
-}
+    fs.writeFileSync('list.json', JSON.stringify(all));
+};
 
 export default async () => {
     await get100games();
     await writeGames();
-}
+};

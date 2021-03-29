@@ -1,15 +1,15 @@
-import gameController from '../controllers/game.js'
+import gameController from '../controllers/game.js';
 
 const routes = [
     {
-        method: 'GET', 
+        method: 'GET',
         url: '/games',
-        handler: gameController.getAllGames
+        handler: gameController.getAllGames,
     },
     {
         method: 'GET',
         url: '/games/:id',
-        handler: gameController.getSingleGame
+        handler: gameController.getSingleGame,
     },
 ];
 export default routes;

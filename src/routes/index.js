@@ -1,5 +1,5 @@
 import game from './game.js';
 
-export default [ 
-    ...game 
+export default [
+    ...game,
 ];

@@ -7,19 +7,19 @@ const getAllGames = async (req, reply) => {
     } catch (err) {
         throw boom.boomify(err);
     }
-}
-//get a single book by id
- const getSingleGame = async (req, reply) => {
+};
+// get a single book by id
+const getSingleGame = async (req, reply) => {
     try {
-        const id = req.params.id
+        const id = req.params.id;
         let game = games.find(game => game.id === id);
-        return reply.code(200).send({ Message: "Success", data: game}, )
+        return reply.code(200).send({ Message: 'Success', data: game });
     } catch (err) {
         throw boom.boomify(err);
     }
-}
+};
 
 export default {
     getAllGames,
-    getSingleGame
-}
+    getSingleGame,
+};
