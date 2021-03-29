@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "esmodules": true
+        }
+      }
+    ]
+  ],
+  "plugins": ["add-module-exports"],
+  "sourceMaps": "inline",
+  "retainLines": true
+}

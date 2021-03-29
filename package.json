@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "extract": "node extraction.js"
+    "start": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,8 +19,23 @@
   },
   "homepage": "https://github.com/lazar0169/steam-extractor#readme",
   "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10",
+    "babel-eslint": "^10.1.0",
+    "boom": "^7.3.0",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "fastify": "^3.14.0",
     "got": "^11.8.2",
     "jsdom": "^16.5.1",
     "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0"
   }
 }
