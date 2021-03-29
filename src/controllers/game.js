@@ -1,14 +1,14 @@
 import boom from 'boom';
 import games from '../../games.json';
 
-const getAllGames = async (req, reply) => {
+const getAllGames = async (_req, reply) => {
     try {
-        return reply.code(200).send(games);
+        return reply.code(200).send({ Message: 'Success', data: games });
     } catch (err) {
         throw boom.boomify(err);
     }
 };
-// get a single book by id
+
 const getSingleGame = async (req, reply) => {
     try {
         const id = req.params.id;
