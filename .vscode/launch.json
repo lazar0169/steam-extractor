@@ -10,6 +10,7 @@
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "npm",
+            "envFile": "${workspaceFolder}/.env",
             "runtimeArgs": [
                 "run-script",
                 "start"

@@ -1,0 +1,10 @@
+{
+    "logger": {
+        "prettyPrint": {
+            "colorize": true
+        }
+    },
+    "trustProxy": true,
+    "bodyLimit": 20971520,
+    "ignoreTrailingSlash": true
+}

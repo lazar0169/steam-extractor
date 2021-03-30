@@ -1,11 +1,13 @@
 import boom from 'boom';
 import jwt from 'jsonwebtoken';
+const key = process.env.SIGNING_KEY;
+console.log(key);
 
 const login = async (req, reply) => {
     try {
-        const name = req.params.name;
-        const token = jwt.sign(name);
-        return reply.code(200).send({ Message: 'Success', data: token });
+        const name = req.body.name;
+        const token = jwt.sign({ name }, key);
+        return reply.code(200).send({ Message: 'Success', data: { token } });
     } catch (err) {
         throw boom.boomify(err);
     }
@@ -14,7 +16,7 @@ const login = async (req, reply) => {
 const getMe = async (req, reply) => {
     try {
         const token = req.params.token;
-        const name = jwt.verify(token);
+        const name = jwt.verify(token, key);
         return reply.code(200).send({ Message: 'Success', data: name });
     } catch (err) {
         throw boom.boomify(err);
