@@ -15,7 +15,7 @@ const login = async (req, reply) => {
 
 const getMe = async (req, reply) => {
     try {
-        const token = req.params.token;
+        const token = req.query.token;
         const name = jwt.verify(token, key);
         return reply.code(200).send({ Message: 'Success', data: name });
     } catch (err) {

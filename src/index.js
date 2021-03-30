@@ -32,7 +32,7 @@ const start = async () => {
 };
 
 fastify.addHook('preValidation', (req, _reply, done) => {
-    req.log.info({ params: req.params, body: req.body, query: req.query, id: req.id }, 'received request');
+    req.log.info({ params: req.params, body: req.body, query: req.query, id: req.id }, 'received data');
     done();
 });
 
