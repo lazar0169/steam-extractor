@@ -6,7 +6,7 @@ import pkg from 'tough-cookie';
 const { CookieJar } = pkg;
 const { JSDOM } = jsdom;
 
-const getSite = async (site) => {
+export const getSite = async (site) => {
     const cookieJar = new CookieJar();
     const setCookie = promisify(cookieJar.setCookie.bind(cookieJar));
     await setCookie('birthtime=628470001', 'https://store.steampowered.com');
@@ -17,8 +17,18 @@ const getSite = async (site) => {
     return dom;
 };
 
-const getElemFromSite = (dom, selector, all = false) => {
+export const getElemFromSite = (dom, selector, all = false) => {
     return dom.window.document[all ? 'querySelectorAll' : 'querySelector'](selector);
+};
+
+export const getCommentsFromUrl = async (url) => {
+    const dom = await getSite(`https://www.metacritic.com/${url}`);
+    const commElements = getElemFromSite(dom, '.reviews.user_reviews .blurb.blurb_expanded', true);
+    const comments = [];
+    for (let comm of commElements) {
+        comments.push(comm.textContent.trim().replace(/\n/g, '').replace(/\t/g, ''));
+    }
+    return comments;
 };
 
 const populate = async () => {
@@ -45,7 +55,10 @@ const populate = async () => {
                     break;
                 }
             }
-            console.log(genres.toString());
+            const commentsDom = await getSite(`https://www.metacritic.com/search/all/${game.name}/results`);
+            const linkDom = getElemFromSite(commentsDom, '.result.first_result a');
+            const commentsUrl = linkDom && linkDom.getAttribute('href');
+            game.commentsUrl = commentsUrl;
             const price = priceDom && (priceDom.textContent.includes('€') || priceDom.textContent.includes('Free')) ? priceDom.textContent.trim() : '15,99€';
             const allMetas = getElemFromSite(dom, 'meta', true);
             let rating;

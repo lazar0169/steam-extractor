@@ -1,1255 +1,1335 @@
 [
-   {
-      "id": 82662,
-      "name": "Counter-Strike: Global Offensive",
-      "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/",
-      "rating": "9",
-      "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 43342,
-      "name": "Dota 2",
-      "url": "https://store.steampowered.com/app/570/Dota_2/",
-      "rating": "9",
-      "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 98303,
-      "name": "Valheim",
-      "url": "https://store.steampowered.com/app/892970/Valheim/",
-      "rating": "10",
-      "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
-      "price": "16,79€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "RPG",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 88942,
-      "name": "Tom Clancy's Rainbow Six Siege",
-      "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/",
-      "rating": "9",
-      "description": "Tom Clancy's Rainbow Six Siege is the latest installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio.",
-      "price": "13,42€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 71217,
-      "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-      "url": "https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/",
-      "rating": "6",
-      "description": "PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
-      "price": "29,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Massively Multiplayer"
-      ]
-   },
-   {
-      "id": 83672,
-      "name": "Apex Legends",
-      "url": "https://store.steampowered.com/app/1172470/Apex_Legends/",
-      "rating": "9",
-      "description": "Apex Legends is the award-winning, free-to-play Battle Royale team shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities and experience strategic squad play and innovative gameplay in the next evolution of Battle Royale.",
-      "price": "123,27€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 12030,
-      "name": "Rust",
-      "url": "https://store.steampowered.com/app/252490/Rust/",
-      "rating": "9",
-      "description": "The only aim in Rust is to survive - Overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals. Protect yourself from other players.",
-      "price": "33,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 94716,
-      "name": "Team Fortress 2",
-      "url": "https://store.steampowered.com/app/440/Team_Fortress_2/",
-      "rating": "9",
-      "description": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 38152,
-      "name": "Grand Theft Auto V",
-      "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
-      "rating": "9",
-      "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
-      "price": "15,99€",
-      "genre": [
-         "Action",
-         "Adventure"
-      ]
-   },
-   {
-      "id": 1908,
-      "name": "Rocket League",
-      "url": "https://store.steampowered.com/app/252950/Rocket_League/",
-      "rating": "9",
-      "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and...",
-      "price": "15,99€",
-      "genre": [
-         "Action",
-         "Indie",
-         "Racing",
-         "Sports"
-      ]
-   },
-   {
-      "id": 76626,
-      "name": "Football Manager 2021",
-      "url": "https://store.steampowered.com/app/1263850/Football_Manager_2021/",
-      "rating": "9",
-      "description": "New additions and game upgrades deliver added levels of depth, drama and football authenticity. FM21 empowers you like never before to develop your skills and command success at your club.",
-      "price": "54,99€",
-      "genre": [
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 48938,
-      "name": "ARK: Survival Evolved",
-      "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/",
-      "rating": "9",
-      "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
-      "price": "54,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 88090,
-      "name": "Warframe",
-      "url": "https://store.steampowered.com/app/230410/Warframe/",
-      "rating": "9",
-      "description": "Warframe is a cooperative free-to-play third person online action game set in an evolving sci-fi world.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 82333,
-      "name": "Bloons TD 6",
-      "url": "https://store.steampowered.com/app/960090/Bloons_TD_6/",
-      "rating": "10",
-      "description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
-      "price": "8,19€",
-      "genre": [
-         "Strategy"
-      ]
-   },
-   {
-      "id": 44837,
-      "name": "Destiny 2",
-      "url": "https://store.steampowered.com/app/1085660/Destiny_2/",
-      "rating": "9",
-      "description": "Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free.",
-      "price": "Free To Play",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 66094,
-      "name": "Sid Meier's Civilization VI",
-      "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/",
-      "rating": "9",
-      "description": "Civilization VI offers new ways to interact with your world, expand your empire across the map, advance your culture, and compete against history’s greatest leaders to build a civilization that will stand the test of time. Play as one of 20 historical leaders including Roosevelt (America) and Victoria (England).",
-      "price": "59,99€",
-      "genre": [
-         "Strategy"
-      ]
-   },
-   {
-      "id": 11871,
-      "name": "Stardew Valley",
-      "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "rating": "10",
-      "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
-      "price": "13,99€",
-      "genre": [
-         "Indie",
-         "RPG",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 72684,
-      "name": "Dead by Daylight",
-      "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
-      "rating": "9",
-      "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
-      "price": "19,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 24897,
-      "name": "Terraria",
-      "url": "https://store.steampowered.com/app/105600/Terraria/",
-      "rating": "10",
-      "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
-      "price": "9,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "RPG"
-      ]
-   },
-   {
-      "id": 51051,
-      "name": "War Thunder",
-      "url": "https://store.steampowered.com/app/236390/War_Thunder/",
-      "rating": "9",
-      "description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving...",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play",
-         "Massively Multiplayer",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 57274,
-      "name": "Garry's Mod",
-      "url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
-      "rating": "10",
-      "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
-      "price": "9,99€",
-      "genre": [
-         "Indie",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 28728,
-      "name": "Total War: WARHAMMER II",
-      "url": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/",
-      "rating": "9",
-      "description": "Strategy gaming perfected. A breath-taking campaign of exploration, expansion and conquest across a fantasy world. Turn-based civilisation management and real-time epic strategy battles with thousands of troops and monsters at your command.",
-      "price": "59,99€",
-      "genre": [
-         "Action",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 15913,
-      "name": "Euro Truck Simulator 2",
-      "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
-      "rating": "10",
-      "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-      "price": "95,73€",
-      "genre": [
-         "Indie",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 43499,
-      "name": "Black Desert Online",
-      "url": "https://store.steampowered.com/app/582660/Black_Desert_Online/",
-      "rating": "7",
-      "description": "Black Desert Online is a sandbox, living-world MMORPG. Experience fast-paced, action-packed combat, hunt monsters and huge bosses, fight with friends in a guild to siege nodes and conquer castles, train your life skills such as fishing, trading, crafting, cooking, and much more!",
-      "price": "9,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Massively Multiplayer",
-         "RPG",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 83217,
-      "name": "Farming Simulator 19",
-      "url": "https://store.steampowered.com/app/787860/Farming_Simulator_19/",
-      "rating": "9",
-      "description": "The best-selling franchise takes a giant leap forward with a complete overhaul of the graphics engine, offering the most striking and immersive visuals and effects, along with the deepest and most complete farming experience ever.",
-      "price": "19,99€",
-      "genre": [
-         "Simulation"
-      ]
-   },
-   {
-      "id": 68172,
-      "name": "Hearts of Iron IV",
-      "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
-      "rating": "9",
-      "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
-      "price": "39,99€",
-      "genre": [
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 17334,
-      "name": "DayZ",
-      "url": "https://store.steampowered.com/app/221100/DayZ/",
-      "rating": "6",
-      "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
-      "price": "39,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Massively Multiplayer"
-      ]
-   },
-   {
-      "id": 31526,
-      "name": "The Elder Scrolls Online",
-      "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/",
-      "rating": "9",
-      "description": "Join over 18 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
-      "price": "19,99€",
-      "genre": [
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 89284,
-      "name": "Crusader Kings III",
-      "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
-      "rating": "9",
-      "description": "Paradox Development Studio brings you the sequel to one of the most popular strategy games ever made. Crusader Kings III is the heir to a long legacy of historical grand strategy experiences and arrives with a host of new ways to ensure the success of your royal house.",
-      "price": "49,99€",
-      "genre": [
-         "RPG",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 11496,
-      "name": "Wallpaper Engine",
-      "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine/",
-      "rating": "10",
-      "description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
-      "price": "3,99€",
-      "genre": [
-         "Casual",
-         "Indie",
-         "Animation & Modeling",
-         "Design & Illustration",
-         "Photo Editing",
-         "Utilities"
-      ]
-   },
-   {
-      "id": 10476,
-      "name": "Loop Hero",
-      "url": "https://store.steampowered.com/app/1282730/Loop_Hero/",
-      "rating": "9",
-      "description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
-      "price": "14,99€",
-      "genre": [
-         "Indie",
-         "RPG",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 19107,
-      "name": "World of Tanks Blitz",
-      "url": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/",
-      "rating": "7",
-      "description": "Research 'drumming' tanks from Czechoslovakia. Use your skills to earn and assemble the parts of Loza's Sherman!",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play",
-         "Massively Multiplayer"
-      ]
-   },
-   {
-      "id": 4589,
-      "name": "PAYDAY 2",
-      "url": "https://store.steampowered.com/app/218620/PAYDAY_2/",
-      "rating": "9",
-      "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
-      "price": "9,99€",
-      "genre": [
-         "Action",
-         "RPG"
-      ]
-   },
-   {
-      "id": 2699,
-      "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
-      "rating": "9",
-      "description": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more.",
-      "price": "39,99€",
-      "genre": [
-         "RPG"
-      ]
-   },
-   {
-      "id": 95359,
-      "name": "Sid Meier's Civilization V",
-      "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/",
-      "rating": "10",
-      "description": "Create, discover, and download new player-created maps, scenarios, interfaces, and more!",
-      "price": "29,99€",
-      "genre": [
-         "Strategy"
-      ]
-   },
-   {
-      "id": 14495,
-      "name": "Brawlhalla",
-      "url": "https://store.steampowered.com/app/291550/Brawlhalla/",
-      "rating": "9",
-      "description": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android & Steam! Frequent updates. Over fifty Legends.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play",
-         "Indie"
-      ]
-   },
-   {
-      "id": 82476,
-      "name": "Unturned",
-      "url": "https://store.steampowered.com/app/304930/Unturned/",
-      "rating": "9",
-      "description": "You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Casual",
-         "Free to Play",
-         "Indie"
-      ]
-   },
-   {
-      "id": 90041,
-      "name": "FINAL FANTASY XIV Online",
-      "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/",
-      "rating": "9",
-      "description": "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world.",
-      "price": "9,99€",
-      "genre": [
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 34778,
-      "name": "Path of Exile",
-      "url": "https://store.steampowered.com/app/238960/Path_of_Exile/",
-      "rating": "9",
-      "description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you. Created by hardcore gamers, Path of Exile is an online Action RPG set in a dark fantasy world.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Free to Play",
-         "Indie",
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 79729,
-      "name": "Age of Empires II: Definitive Edition",
-      "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/",
-      "rating": "9",
-      "description": "Age of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever with stunning 4K Ultra HD graphics, a new and fully remastered soundtrack, and brand-new content, “The Last Khans” with 3 new campaigns and 4 new civilizations.",
-      "price": "19,99€",
-      "genre": [
-         "Strategy"
-      ]
-   },
-   {
-      "id": 30859,
-      "name": "Arma 3",
-      "url": "https://store.steampowered.com/app/107410/Arma_3/",
-      "rating": "9",
-      "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
-      "price": "27,99€",
-      "genre": [
-         "Action",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 59575,
-      "name": "EA SPORTS™ FIFA 21",
-      "url": "https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/",
-      "rating": "7",
-      "description": "Football is back with EA SPORTS™ FIFA 21, featuring more ways to team up on the street or in the stadium to enjoy even bigger victories with friends.",
-      "price": "59,99€",
-      "genre": [
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 41727,
-      "name": "SMITE",
-      "url": "https://store.steampowered.com/app/386360/SMITE/",
-      "rating": "9",
-      "description": "Join 35+ million players in SMITE, the Battleground of the Gods! Wield Thor’s hammer, turn your foes to stone as Medusa, or flex your divine power as one of 100+ other mythological icons. Become a God and play FREE today!",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 85033,
-      "name": "Among Us",
-      "url": "https://store.steampowered.com/app/945360/Among_Us/",
-      "rating": "9",
-      "description": "An online and local party game of teamwork and betrayal for 4-10 players...in space!",
-      "price": "3,99€",
-      "genre": [
-         "Casual"
-      ]
-   },
-   {
-      "id": 30604,
-      "name": "Europa Universalis IV",
-      "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV/",
-      "rating": "9",
-      "description": "Four centuries of detailed history come alive in Paradox’s classic grand strategy game. Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation’s history!",
-      "price": "39,99€",
-      "genre": [
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 17623,
-      "name": "7 Days to Die",
-      "url": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
-      "rating": "9",
-      "description": "7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
-      "price": "22,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "RPG",
-         "Simulation",
-         "Strategy",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 48778,
-      "name": "Satisfactory",
-      "url": "https://store.steampowered.com/app/526870/Satisfactory/",
-      "rating": "10",
-      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
-      "price": "29,99€",
-      "genre": [
-         "Adventure",
-         "Indie",
-         "Simulation",
-         "Strategy",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 75430,
-      "name": "Counter-Strike",
-      "url": "https://store.steampowered.com/app/10/CounterStrike/",
-      "rating": "10",
-      "description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
-      "price": "8,19€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 28420,
-      "name": "Stellaris",
-      "url": "https://store.steampowered.com/app/281990/Stellaris/",
-      "rating": "9",
-      "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
-      "price": "39,99€",
-      "genre": [
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 35531,
-      "name": "Football Manager 2020",
-      "url": "https://store.steampowered.com/app/1100600/Football_Manager_2020/",
-      "rating": "9",
-      "description": "Run your football club, your way. Every decision counts in Football Manager 2020 with new features and polished game mechanics rewarding planning and progression like never before, empowering managers to develop and refine both your club’s and your own unique identity.",
-      "price": "4,49€",
-      "genre": [
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 96555,
-      "name": "Phasmophobia",
-      "url": "https://store.steampowered.com/app/739630/Phasmophobia/",
-      "rating": "10",
-      "description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "price": "11,59€",
-      "genre": [
-         "Action",
-         "Indie",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 34386,
-      "name": "RimWorld",
-      "url": "https://store.steampowered.com/app/294100/RimWorld/",
-      "rating": "10",
-      "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
-      "price": "29,99€",
-      "genre": [
-         "Indie",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 43123,
-      "name": "Sea of Thieves",
-      "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves/",
-      "rating": "9",
-      "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting – everything you need to live the pirate life and become a legend in your own right. With no set roles, you have complete freedom to approach the world, and other players, however you choose.",
-      "price": "39,99€",
-      "genre": [
-         "Action",
-         "Adventure"
-      ]
-   },
-   {
-      "id": 40882,
-      "name": "Monster Hunter: World",
-      "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World/",
-      "rating": "9",
-      "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
-      "price": "29,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 75277,
-      "name": "Mount & Blade II: Bannerlord",
-      "url": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/",
-      "rating": "9",
-      "description": "The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia. Establish your hegemony and create a new world out of the ashes of the old.",
-      "price": "49,99€",
-      "genre": [
-         "Action",
-         "RPG",
-         "Simulation",
-         "Strategy",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 55766,
-      "name": "Fallout 4",
-      "url": "https://store.steampowered.com/app/377160/Fallout_4/",
-      "rating": "7",
-      "description": "Bethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 – their most ambitious game ever, and the next generation of open-world gaming.",
-      "price": "29,99€",
-      "genre": [
-         "RPG"
-      ]
-   },
-   {
-      "id": 96429,
-      "name": "The Witcher 3: Wild Hunt",
-      "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
-      "rating": "10",
-      "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
-      "price": "42,44€",
-      "genre": [
-         "RPG"
-      ]
-   },
-   {
-      "id": 52866,
-      "name": "Cities: Skylines",
-      "url": "https://store.steampowered.com/app/255710/Cities_Skylines/",
-      "rating": "9",
-      "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
-      "price": "27,99€",
-      "genre": [
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 10995,
-      "name": "Red Dead Redemption 2",
-      "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
-      "rating": "9",
-      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
-      "price": "15,99€",
-      "genre": [
-         "Action",
-         "Adventure"
-      ]
-   },
-   {
-      "id": 41524,
-      "name": "Conan Exiles",
-      "url": "https://store.steampowered.com/app/440900/Conan_Exiles/",
-      "rating": "7",
-      "description": "An online multiplayer survival game, now with mounts and mounted combat, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build a home and kingdom, dominate your enemies in single or multiplayer.",
-      "price": "39,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Massively Multiplayer",
-         "RPG",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 92112,
-      "name": "Cyberpunk 2077",
-      "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
-      "rating": "7",
-      "description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
-      "price": "15,99€",
-      "genre": [
-         "RPG"
-      ]
-   },
-   {
-      "id": 12445,
-      "name": "Factorio",
-      "url": "https://store.steampowered.com/app/427520/Factorio/",
-      "rating": "10",
-      "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
-      "price": "15,99€",
-      "genre": [
-         "Casual",
-         "Indie",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 86568,
-      "name": "VRChat",
-      "url": "https://store.steampowered.com/app/438100/VRChat/",
-      "rating": "9",
-      "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
-      "price": "Free To Play",
-      "genre": [
-         "Adventure",
-         "Casual",
-         "Free to Play",
-         "Massively Multiplayer",
-         "Simulation",
-         "Sports",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 48376,
-      "name": "Hunt: Showdown",
-      "url": "https://store.steampowered.com/app/594650/Hunt_Showdown/",
-      "rating": "9",
-      "description": "Hunt: Showdown is a thrilling, high-stakes PvPvE first-person shooter. Take down nightmarish monsters, as you compete for the bounties that will bring you glory, gear, and gold in this unforgiving – and unforgettable - online multiplayer experience.",
-      "price": "39,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 44265,
-      "name": "Left 4 Dead 2",
-      "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
-      "rating": "10",
-      "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
-      "price": "8,19€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 91853,
-      "name": "Paladins",
-      "url": "https://store.steampowered.com/app/444090/Paladins/",
-      "rating": "9",
-      "description": "Join 25+ million players in Paladins, the free-to-play fantasy team-based shooter sensation. Wield guns and magic as a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play.",
-      "price": "Free to Play",
-      "genre": [
-         "Action",
-         "Free to Play"
-      ]
-   },
-   {
-      "id": 93835,
-      "name": "eFootball PES 2021 SEASON UPDATE",
-      "url": "https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/",
-      "rating": "7",
-      "description": "Celebrate 25 years of PES with the eFootball PES 2021 Season Update* - available at a special anniversary price!",
-      "price": "29,99€",
-      "genre": [
-         "Sports"
-      ]
-   },
-   {
-      "id": 56850,
-      "name": "tModLoader",
-      "url": "https://store.steampowered.com/app/1281930/tModLoader/",
-      "rating": "10",
-      "description": "Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!",
-      "price": "Free",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Free to Play",
-         "Indie",
-         "RPG"
-      ]
-   },
-   {
-      "id": 32755,
-      "name": "Soundpad",
-      "url": "https://store.steampowered.com/app/629520/Soundpad/",
-      "rating": "10",
-      "description": "Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too.",
-      "price": "15,99€",
-      "genre": [
-         "Audio Production",
-         "Utilities"
-      ]
-   },
-   {
-      "id": 37960,
-      "name": "Don't Starve Together",
-      "url": "https://store.steampowered.com/app/322330/Dont_Starve_Together/",
-      "rating": "10",
-      "description": "Don't Starve Together is the standalone multiplayer expansion of the uncompromising survival game Don't Starve.",
-      "price": "14,99€",
-      "genre": [
-         "Adventure",
-         "Indie",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 96382,
-      "name": "Tabletop Simulator",
-      "url": "https://store.steampowered.com/app/286160/Tabletop_Simulator/",
-      "rating": "10",
-      "description": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
-      "price": "19,99€",
-      "genre": [
-         "Casual",
-         "Indie",
-         "RPG",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 61845,
-      "name": "Divinity: Original Sin 2",
-      "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/",
-      "rating": "10",
-      "description": "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God.",
-      "price": "44,99€",
-      "genre": [
-         "Adventure",
-         "RPG",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 57630,
-      "name": "Elite Dangerous",
-      "url": "https://store.steampowered.com/app/359320/Elite_Dangerous/",
-      "rating": "7",
-      "description": "Take control of your own starship in a cutthroat galaxy. Elite Dangerous is the definitive massively multiplayer space epic.",
-      "price": "24,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Massively Multiplayer",
-         "RPG",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 43639,
-      "name": "Forza Horizon 4",
-      "url": "https://store.steampowered.com/app/1293830/Forza_Horizon_4/",
-      "rating": "7",
-      "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
-      "price": "69,99€",
-      "genre": [
-         "Racing"
-      ]
-   },
-   {
-      "id": 27201,
-      "name": "DARK SOULS™ III",
-      "url": "https://store.steampowered.com/app/374320/DARK_SOULS_III/",
-      "rating": "9",
-      "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
-      "price": "59,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 6554,
-      "name": "Deep Rock Galactic",
-      "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/",
-      "rating": "10",
-      "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
-      "price": "29,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 25275,
-      "name": "SCUM",
-      "url": "https://store.steampowered.com/app/513710/SCUM/",
-      "rating": "7",
-      "description": "SCUM aims to evolve the multiplayer open world survival game with unprecedented levels of character customization, control and progression, where knowledge and skills are the ultimate weapons for long-term survival.",
-      "price": "24,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "Massively Multiplayer",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 69879,
-      "name": "Tale of Immortal",
-      "url": "https://store.steampowered.com/app/1468810/_/",
-      "rating": "9",
-      "description": "Tale of Immortal is an open-world sandbox based on Chinese mythology and cultivation. You will grow to become immortal, conquer the beasts from the Classic of Mountains and Season, make your choices carefully and grasp your own destiny.",
-      "price": "16,79€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "RPG",
-         "Simulation",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 76632,
-      "name": "Dyson Sphere Program",
-      "url": "https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/",
-      "rating": "10",
-      "description": "Build the most efficient intergalactic factory in space simulation strategy game Dyson Sphere Program! Harness the power of stars, collect resources, plan and design production lines and develop your interstellar factory from a small space workshop to a galaxy-wide industrial empire.",
-      "price": "16,79€",
-      "genre": [
-         "Indie",
-         "Simulation",
-         "Strategy",
-         "Early Access"
-      ]
-   },
-   {
-      "id": 81840,
-      "name": "Conqueror's Blade",
-      "url": "https://store.steampowered.com/app/905370/Conquerors_Blade/",
-      "rating": "7",
-      "description": "Master the art of medieval warcraft in this free-to-play tactical action MMO. Create a unique warlord from 11 different classes, and wage war in epic 15 v 15 siege battles. Employ special abilities, devastating weapons, and cunning strategies to reshape this vast open world into your new empire.",
-      "price": "Free To Play",
-      "genre": [
-         "Action",
-         "Free to Play",
-         "Massively Multiplayer",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 28679,
-      "name": "F1 2020",
-      "url": "https://store.steampowered.com/app/1080110/F1_2020/",
-      "rating": "9",
-      "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
-      "price": "10,22€",
-      "genre": [
-         "Racing",
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 40141,
-      "name": "Albion Online",
-      "url": "https://store.steampowered.com/app/761890/Albion_Online/",
-      "rating": "7",
-      "description": "Albion Online is a fantasy sandbox MMORPG featuring a player-driven economy, classless combat system, and intense PvP battles. Explore a vast open world full of danger and opportunity. Grow your wealth, forge alliances, and leave your mark on the world of Albion.",
-      "price": "Free to Play",
-      "genre": [
-         "Free to Play",
-         "Massively Multiplayer",
-         "RPG"
-      ]
-   },
-   {
-      "id": 37363,
-      "name": "Hades",
-      "url": "https://store.steampowered.com/app/1145360/Hades/",
-      "rating": "10",
-      "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
-      "price": "20,99€",
-      "genre": [
-         "Action",
-         "Indie",
-         "RPG"
-      ]
-   },
-   {
-      "id": 80584,
-      "name": "Kingdom Come: Deliverance",
-      "url": "https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/",
-      "rating": "9",
-      "description": "Kingdom Come: Deliverance is a story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire. Avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices.",
-      "price": "29,99€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "RPG"
-      ]
-   },
-   {
-      "id": 94565,
-      "name": "Space Engineers",
-      "url": "https://store.steampowered.com/app/244850/Space_Engineers/",
-      "rating": "9",
-      "description": "Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses, pilot ships and travel through space to explore planets and gather resources to survive.",
-      "price": "16,99€",
-      "genre": [
-         "Action",
-         "Indie",
-         "Simulation",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 93933,
-      "name": "The Binding of Isaac: Rebirth",
-      "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
-      "rating": "10",
-      "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
-      "price": "14,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 10838,
-      "name": "Squad",
-      "url": "https://store.steampowered.com/app/393380/Squad/",
-      "rating": "9",
-      "description": "Squad is a tactical FPS that provides authentic combat experiences through teamwork, constant communication, and gameplay. It bridges the large gap between arcade shooter and military simulation with 100 player battles, combined arms combat, base building, and a great integrated VoIP...",
-      "price": "44,99€",
-      "genre": [
-         "Action",
-         "Indie",
-         "Strategy"
-      ]
-   },
-   {
-      "id": 61694,
-      "name": "Far Cry 5",
-      "url": "https://store.steampowered.com/app/552520/Far_Cry_5/",
-      "rating": "7",
-      "description": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community.",
-      "price": "17,45€",
-      "genre": [
-         "Action",
-         "Adventure"
-      ]
-   },
-   {
-      "id": 74380,
-      "name": "NBA 2K21",
-      "url": "https://store.steampowered.com/app/1225330/NBA_2K21/",
-      "rating": "5",
-      "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience.",
-      "price": "59,99€",
-      "genre": [
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 79184,
-      "name": "The Forest",
-      "url": "https://store.steampowered.com/app/242760/The_Forest/",
-      "rating": "9",
-      "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
-      "price": "16,79€",
-      "genre": [
-         "Action",
-         "Adventure",
-         "Indie",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 23521,
-      "name": "DOOM Eternal",
-      "url": "https://store.steampowered.com/app/782330/DOOM_Eternal/",
-      "rating": "9",
-      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you.",
-      "price": "19,99€",
-      "genre": [
-         "Action"
-      ]
-   },
-   {
-      "id": 61082,
-      "name": "Fall Guys: Ultimate Knockout",
-      "url": "https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/",
-      "rating": "9",
-      "description": "Fall Guys is a massively multiplayer party game with up to 60 players online in a free-for-all struggle through round after round of escalating chaos until one victor remains!",
-      "price": "19,99€",
-      "genre": [
-         "Action",
-         "Casual",
-         "Indie",
-         "Massively Multiplayer",
-         "Sports"
-      ]
-   },
-   {
-      "id": 84058,
-      "name": "The Elder Scrolls V: Skyrim",
-      "url": "https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/",
-      "rating": "9",
-      "description": "EPIC FANTASY REBORN The next chapter in the highly anticipated Elder Scrolls saga arrives from the makers of the 2006 and 2008 Games of the Year, Bethesda Game Studios. Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose.",
-      "price": "14,99€",
-      "genre": [
-         "RPG"
-      ]
-   },
-   {
-      "id": 14283,
-      "name": "Nioh 2 – The Complete Edition",
-      "url": "https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/",
-      "rating": "9",
-      "description": "Battle hordes of yokai in this masocore Action RPG. Create your protagonist and embark on an adventure through a myriad of locales across Japan during the Sengoku period. Utilize the new Yokai Shift ability to defeat even the most ferocious yokai and be prepared to brave through Dark Realms created by your enemies.",
-      "price": "59,99€",
-      "genre": [
-         "Action",
-         "RPG"
-      ]
-   },
-   {
-      "id": 50323,
-      "name": "The Sims™ 4",
-      "url": "https://store.steampowered.com/app/1222670/The_Sims_4/",
-      "rating": "9",
-      "description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
-      "price": "39,99€",
-      "genre": [
-         "Casual",
-         "Simulation"
-      ]
-   },
-   {
-      "id": 4080,
-      "name": "theHunter: Call of the Wild™",
-      "url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/",
-      "rating": "9",
-      "description": "Experience an atmospheric hunting game like no other in this realistic and visually breathtaking open world. Immerse yourself in the atmospheric single player campaign, or share the ultimate hunting experience with friends.",
-      "price": "45,73€",
-      "genre": [
-         "Adventure",
-         "Simulation",
-         "Sports"
-      ]
-   },
-   {
-      "id": 56447,
-      "name": "Dying Light",
-      "url": "https://store.steampowered.com/app/239140/Dying_Light/",
-      "rating": "9",
-      "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
-      "price": "29,99€",
-      "genre": [
-         "Action",
-         "RPG"
-      ]
-   },
-   {
-      "id": 90929,
-      "name": "Age of Empires II (2013)",
-      "url": "https://store.steampowered.com/app/221380/Age_of_Empires_II_2013/",
-      "rating": "10",
-      "description": "Age of Empires II has been re-imagined in high definition with new features, trading cards, improved AI, workshop support, multiplayer, Steamworks integration and more!",
-      "price": "19,99€",
-      "genre": [
-         "Strategy"
-      ]
-   }
+    {
+        "id": 47097,
+        "name": "Counter-Strike: Global Offensive",
+        "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/",
+        "commentsUrl": "/game/pc/counter-strike-global-offensive",
+        "rating": "9",
+        "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 44231,
+        "name": "Dota 2",
+        "url": "https://store.steampowered.com/app/570/Dota_2/",
+        "commentsUrl": "/game/pc/dota-2",
+        "rating": "9",
+        "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 50964,
+        "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+        "url": "https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/",
+        "commentsUrl": "/game/pc/playerunknowns-battlegrounds",
+        "rating": "6",
+        "description": "PLAYERUNKNOWN'S BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
+        "price": "29,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer"
+        ]
+    },
+    {
+        "id": 59010,
+        "name": "Apex Legends",
+        "url": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+        "commentsUrl": "/game/switch/apex-legends/trailers/14540717",
+        "rating": "9",
+        "description": "Apex Legends is the award-winning, free-to-play Battle Royale team shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities and experience strategic squad play and innovative gameplay in the next evolution of Battle Royale.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 68852,
+        "name": "Grand Theft Auto V",
+        "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+        "commentsUrl": "/game/playstation-4/grand-theft-auto-v",
+        "rating": "9",
+        "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+        "price": "15,99€",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 10968,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/",
+        "commentsUrl": "/game/playstation-4/tom-clancys-rainbow-six-siege",
+        "rating": "9",
+        "description": "Tom Clancy's Rainbow Six Siege is the latest installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio.",
+        "price": "25,92€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 44553,
+        "name": "Rust",
+        "url": "https://store.steampowered.com/app/252490/Rust/",
+        "commentsUrl": "/game/pc/rust",
+        "rating": "9",
+        "description": "The only aim in Rust is to survive - Overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals. Protect yourself from other players.",
+        "price": "33,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 90548,
+        "name": "Valheim",
+        "url": "https://store.steampowered.com/app/892970/Valheim/",
+        "commentsUrl": "/person/pal-sverre-valheim-hagen",
+        "rating": "10",
+        "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+        "price": "16,79€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 55066,
+        "name": "OUTRIDERS",
+        "url": "https://store.steampowered.com/app/680420/OUTRIDERS/",
+        "commentsUrl": "/game/stadia/outriders/trailers/14552926",
+        "rating": "6",
+        "description": "Outriders’ brutal and bloody combat combines frenetic gunplay, violent powers and deep RPG systems to create a true genre hybrid.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ]
+    },
+    {
+        "id": 41698,
+        "name": "Team Fortress 2",
+        "url": "https://store.steampowered.com/app/440/Team_Fortress_2/",
+        "commentsUrl": "/game/pc/team-fortress-2",
+        "rating": "9",
+        "description": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 9609,
+        "name": "Tale of Immortal",
+        "url": "https://store.steampowered.com/app/1468810/_/",
+        "commentsUrl": "/game/pc/tale-of-immortal",
+        "rating": "9",
+        "description": "Tale of Immortal is an open-world sandbox based on Chinese mythology and cultivation. You will grow to become immortal, conquer the beasts from the Classic of Mountains and Season, make your choices carefully and grasp your own destiny.",
+        "price": "15,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 88444,
+        "name": "ARK: Survival Evolved",
+        "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/",
+        "commentsUrl": "/game/playstation-4/ark-survival-evolved",
+        "rating": "9",
+        "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+        "price": "54,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 84774,
+        "name": "Football Manager 2021",
+        "url": "https://store.steampowered.com/app/1263850/Football_Manager_2021/",
+        "commentsUrl": "/game/switch/football-manager-2021-touch",
+        "rating": "9",
+        "description": "New additions and game upgrades deliver added levels of depth, drama and football authenticity. FM21 empowers you like never before to develop your skills and command success at your club.",
+        "price": "5,49€",
+        "genre": [
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 70920,
+        "name": "Warframe",
+        "url": "https://store.steampowered.com/app/230410/Warframe/",
+        "commentsUrl": "/game/pc/warframe",
+        "rating": "9",
+        "description": "Warframe is a cooperative free-to-play third person online action game set in an evolving sci-fi world.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 66616,
+        "name": "The Binding of Isaac: Rebirth",
+        "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
+        "commentsUrl": "/game/playstation-4/the-binding-of-isaac-rebirth",
+        "rating": "10",
+        "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+        "price": "7,48€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 76547,
+        "name": "Destiny 2",
+        "url": "https://store.steampowered.com/app/1085660/Destiny_2/",
+        "commentsUrl": "/game/pc/destiny-2-shadowkeep",
+        "rating": "9",
+        "description": "Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free.",
+        "price": "Free To Play",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 81642,
+        "name": "Sid Meier's Civilization VI",
+        "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/",
+        "commentsUrl": "/game/playstation-4/sid-meiers-civilization-vi",
+        "rating": "9",
+        "description": "Civilization VI offers new ways to interact with your world, expand your empire across the map, advance your culture, and compete against history’s greatest leaders to build a civilization that will stand the test of time. Play as one of 20 historical leaders including Roosevelt (America) and Victoria (England).",
+        "price": "92,11€",
+        "genre": [
+            "Strategy"
+        ]
+    },
+    {
+        "id": 50375,
+        "name": "War Thunder",
+        "url": "https://store.steampowered.com/app/236390/War_Thunder/",
+        "commentsUrl": "/game/playstation-4/war-thunder",
+        "rating": "9",
+        "description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving...",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play",
+            "Massively Multiplayer",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 10144,
+        "name": "Dead by Daylight",
+        "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
+        "commentsUrl": "/game/pc/dead-by-daylight",
+        "rating": "9",
+        "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+        "price": "29,99€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 97947,
+        "name": "Rocket League",
+        "url": "https://store.steampowered.com/app/252950/Rocket_League/",
+        "commentsUrl": "/game/switch/rocket-league",
+        "rating": "9",
+        "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and...",
+        "price": "15,99€",
+        "genre": [
+            "Action",
+            "Indie",
+            "Racing",
+            "Sports"
+        ]
+    },
+    {
+        "id": 19648,
+        "name": "Wallpaper Engine",
+        "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine/",
+        "commentsUrl": "",
+        "rating": "10",
+        "description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
+        "price": "3,99€",
+        "genre": [
+            "Casual",
+            "Indie",
+            "Animation & Modeling",
+            "Design & Illustration",
+            "Photo Editing",
+            "Utilities"
+        ]
+    },
+    {
+        "id": 80323,
+        "name": "Terraria",
+        "url": "https://store.steampowered.com/app/105600/Terraria/",
+        "commentsUrl": "/game/pc/terraria",
+        "rating": "10",
+        "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+        "price": "9,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ]
+    },
+    {
+        "id": 93544,
+        "name": "Among Us",
+        "url": "https://store.steampowered.com/app/945360/Among_Us/",
+        "commentsUrl": "/game/playstation-4/the-wolf-among-us",
+        "rating": "9",
+        "description": "An online and local party game of teamwork and betrayal for 4-10 players...in space!",
+        "price": "13,68€",
+        "genre": [
+            "Casual"
+        ]
+    },
+    {
+        "id": 74512,
+        "name": "Stardew Valley",
+        "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+        "commentsUrl": "/game/switch/stardew-valley",
+        "rating": "10",
+        "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+        "price": "13,99€",
+        "genre": [
+            "Indie",
+            "RPG",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 35186,
+        "name": "The Witcher 3: Wild Hunt",
+        "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+        "commentsUrl": "/game/playstation-4/the-witcher-3-wild-hunt",
+        "rating": "10",
+        "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
+        "price": "42,44€",
+        "genre": [
+            "RPG"
+        ]
+    },
+    {
+        "id": 90512,
+        "name": "Euro Truck Simulator 2",
+        "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
+        "commentsUrl": "/game/pc/euro-truck-simulator-2",
+        "rating": "10",
+        "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+        "price": "19,99€",
+        "genre": [
+            "Indie",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 98662,
+        "name": "Hearts of Iron IV",
+        "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
+        "commentsUrl": "/game/pc/hearts-of-iron-iv/trailers/4326446",
+        "rating": "9",
+        "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+        "price": "39,99€",
+        "genre": [
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 96711,
+        "name": "Monster Hunter: World",
+        "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World/",
+        "commentsUrl": "/game/playstation-4/monster-hunter-world",
+        "rating": "9",
+        "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+        "price": "29,99€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 25955,
+        "name": "Garry's Mod",
+        "url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+        "commentsUrl": "/game/pc/garrys-mod",
+        "rating": "10",
+        "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+        "price": "9,99€",
+        "genre": [
+            "Indie",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 34993,
+        "name": "PAYDAY 2",
+        "url": "https://store.steampowered.com/app/218620/PAYDAY_2/",
+        "commentsUrl": "/game/switch/payday-2",
+        "rating": "9",
+        "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+        "price": "9,99€",
+        "genre": [
+            "Action",
+            "RPG"
+        ]
+    },
+    {
+        "id": 33301,
+        "name": "World of Tanks Blitz",
+        "url": "https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/",
+        "commentsUrl": "/game/pc/world-of-tanks/trailers/7347548",
+        "rating": "7",
+        "description": "It's out of this world! Cosmic rewards in exchange for XP, vehicles with thrusters in Gravity Force, and the Explorer tank in Operation Red Planet.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play",
+            "Massively Multiplayer"
+        ]
+    },
+    {
+        "id": 45760,
+        "name": "Total War: WARHAMMER II",
+        "url": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/",
+        "commentsUrl": "/game/pc/total-war-warhammer-ii",
+        "rating": "9",
+        "description": "Strategy gaming perfected. A breath-taking campaign of exploration, expansion and conquest across a fantasy world. Turn-based civilisation management and real-time epic strategy battles with thousands of troops and monsters at your command.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 86762,
+        "name": "The Elder Scrolls Online",
+        "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/",
+        "commentsUrl": "/game/pc/the-elder-scrolls-online-summerset",
+        "rating": "9",
+        "description": "Join over 18 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required.",
+        "price": "59,99€",
+        "genre": [
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 94777,
+        "name": "Left 4 Dead 2",
+        "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
+        "commentsUrl": "/game/pc/left-4-dead-2",
+        "rating": "10",
+        "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+        "price": "8,19€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 33690,
+        "name": "Unturned",
+        "url": "https://store.steampowered.com/app/304930/Unturned/",
+        "commentsUrl": "/game/pc/unturned",
+        "rating": "9",
+        "description": "You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Free to Play",
+            "Indie"
+        ]
+    },
+    {
+        "id": 26044,
+        "name": "Black Desert Online",
+        "url": "https://store.steampowered.com/app/582660/Black_Desert_Online/",
+        "commentsUrl": "/game/pc/black-desert-online",
+        "rating": "7",
+        "description": "Black Desert Online is a sandbox, living-world MMORPG. Experience fast-paced, action-packed combat, hunt monsters and huge bosses, fight with friends in a guild to siege nodes and conquer castles, train your life skills such as fishing, trading, crafting, cooking, and much more!",
+        "price": "9,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 55507,
+        "name": "DayZ",
+        "url": "https://store.steampowered.com/app/221100/DayZ/",
+        "commentsUrl": "/game/pc/dayz",
+        "rating": "6",
+        "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+        "price": "39,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer"
+        ]
+    },
+    {
+        "id": 74299,
+        "name": "Farming Simulator 19",
+        "url": "https://store.steampowered.com/app/787860/Farming_Simulator_19/",
+        "commentsUrl": "/game/playstation-4/farming-simulator-19",
+        "rating": "9",
+        "description": "The best-selling franchise takes a giant leap forward with a complete overhaul of the graphics engine, offering the most striking and immersive visuals and effects, along with the deepest and most complete farming experience ever.",
+        "price": "19,99€",
+        "genre": [
+            "Simulation"
+        ]
+    },
+    {
+        "id": 38024,
+        "name": "Don't Starve Together",
+        "url": "https://store.steampowered.com/app/322330/Dont_Starve_Together/",
+        "commentsUrl": "/game/pc/dont-starve-together",
+        "rating": "10",
+        "description": "Don't Starve Together is the standalone multiplayer expansion of the uncompromising survival game Don't Starve.",
+        "price": "14,99€",
+        "genre": [
+            "Adventure",
+            "Indie",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 39342,
+        "name": "Hunt: Showdown",
+        "url": "https://store.steampowered.com/app/594650/Hunt_Showdown/",
+        "commentsUrl": "/game/pc/hunt-showdown",
+        "rating": "9",
+        "description": "Hunt: Showdown is a thrilling, high-stakes PvPvE first-person shooter. Take down nightmarish monsters, as you compete for the bounties that will bring you glory, gear, and gold in this unforgiving – and unforgettable - online multiplayer experience.",
+        "price": "97,66€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 87590,
+        "name": "Evil Genius 2",
+        "url": "https://store.steampowered.com/app/700600/Evil_Genius_2_World_Domination/",
+        "commentsUrl": "/game/pc/evil-genius-2-world-domination",
+        "rating": "7",
+        "description": "A satirical spy-fi lair builder where YOU are the criminal mastermind! Construct your base, train your minions, defend your operations from the Forces of Justice, and achieve global domination!",
+        "price": "24,99€",
+        "genre": [
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 26560,
+        "name": "Age of Empires II: Definitive Edition",
+        "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/",
+        "commentsUrl": "/game/pc/age-of-empires-ii-definitive-edition---lords-of-the-west",
+        "rating": "9",
+        "description": "Age of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever with stunning 4K Ultra HD graphics, a new and fully remastered soundtrack, and brand-new content, “The Last Khans” with 3 new campaigns and 4 new civilizations.",
+        "price": "19,99€",
+        "genre": [
+            "Strategy"
+        ]
+    },
+    {
+        "id": 48623,
+        "name": "Red Dead Redemption 2",
+        "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+        "commentsUrl": "/game/playstation-4/red-dead-redemption-2",
+        "rating": "9",
+        "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 59946,
+        "name": "Cities: Skylines",
+        "url": "https://store.steampowered.com/app/255710/Cities_Skylines/",
+        "commentsUrl": "/game/switch/cities-skylines---nintendo-switch-edition",
+        "rating": "9",
+        "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+        "price": "27,99€",
+        "genre": [
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 28910,
+        "name": "Sid Meier's Civilization V",
+        "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/",
+        "commentsUrl": "/game/playstation-4/sid-meiers-civilization-vi",
+        "rating": "10",
+        "description": "Create, discover, and download new player-created maps, scenarios, interfaces, and more!",
+        "price": "29,99€",
+        "genre": [
+            "Strategy"
+        ]
+    },
+    {
+        "id": 39461,
+        "name": "Europa Universalis IV",
+        "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV/",
+        "commentsUrl": "/game/pc/europa-universalis-iv",
+        "rating": "9",
+        "description": "Four centuries of detailed history come alive in Paradox’s classic grand strategy game. Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation’s history!",
+        "price": "39,99€",
+        "genre": [
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 76124,
+        "name": "Cyberpunk 2077",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+        "commentsUrl": "/game/pc/cyberpunk-2077",
+        "rating": "7",
+        "description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+        "price": "15,99€",
+        "genre": [
+            "RPG"
+        ]
+    },
+    {
+        "id": 47657,
+        "name": "NBA 2K21",
+        "url": "https://store.steampowered.com/app/1225330/NBA_2K21/",
+        "commentsUrl": "/game/playstation-5/nba-2k21",
+        "rating": "5",
+        "description": "NBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience.",
+        "price": "59,99€",
+        "genre": [
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 79971,
+        "name": "Brawlhalla",
+        "url": "https://store.steampowered.com/app/291550/Brawlhalla/",
+        "commentsUrl": "/game/pc/brawlhalla",
+        "rating": "9",
+        "description": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android & Steam! Frequent updates. Over fifty Legends.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play",
+            "Indie"
+        ]
+    },
+    {
+        "id": 8459,
+        "name": "7 Days to Die",
+        "url": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
+        "commentsUrl": "/game/playstation-4/7-days-to-die",
+        "rating": "9",
+        "description": "7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
+        "price": "22,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 66119,
+        "name": "Mount & Blade II: Bannerlord",
+        "url": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/",
+        "commentsUrl": "/game/pc/mount-blade-ii-bannerlord",
+        "rating": "9",
+        "description": "The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia. Establish your hegemony and create a new world out of the ashes of the old.",
+        "price": "49,99€",
+        "genre": [
+            "Action",
+            "RPG",
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 30348,
+        "name": "Risk of Rain 2",
+        "url": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/",
+        "commentsUrl": "/game/pc/risk-of-rain-2",
+        "rating": "10",
+        "description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+        "price": "24,99€",
+        "genre": [
+            "Action",
+            "Indie"
+        ]
+    },
+    {
+        "id": 60978,
+        "name": "EA SPORTS™ FIFA 21",
+        "url": "https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/",
+        "commentsUrl": "",
+        "rating": "7",
+        "description": "Football is back with EA SPORTS™ FIFA 21, featuring more ways to team up on the street or in the stadium to enjoy even bigger victories with friends.",
+        "price": "59,99€",
+        "genre": [
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 12189,
+        "name": "Bloons TD 6",
+        "url": "https://store.steampowered.com/app/960090/Bloons_TD_6/",
+        "commentsUrl": "/game/ios/bloons-td-6",
+        "rating": "10",
+        "description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+        "price": "8,19€",
+        "genre": [
+            "Strategy"
+        ]
+    },
+    {
+        "id": 32492,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+        "commentsUrl": "/game/playstation-4/the-elder-scrolls-v-skyrim-special-edition",
+        "rating": "9",
+        "description": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more.",
+        "price": "39,99€",
+        "genre": [
+            "RPG"
+        ]
+    },
+    {
+        "id": 26172,
+        "name": "SCUM",
+        "url": "https://store.steampowered.com/app/513710/SCUM/",
+        "commentsUrl": "/game/pc/scum",
+        "rating": "7",
+        "description": "SCUM aims to evolve the multiplayer open world survival game with unprecedented levels of character customization, control and progression, where knowledge and skills are the ultimate weapons for long-term survival.",
+        "price": "24,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Massively Multiplayer",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 29829,
+        "name": "RimWorld",
+        "url": "https://store.steampowered.com/app/294100/RimWorld/",
+        "commentsUrl": "/game/pc/rimworld",
+        "rating": "10",
+        "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+        "price": "29,99€",
+        "genre": [
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 83156,
+        "name": "Stellaris",
+        "url": "https://store.steampowered.com/app/281990/Stellaris/",
+        "commentsUrl": "/game/pc/stellaris",
+        "rating": "9",
+        "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
+        "price": "39,99€",
+        "genre": [
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 21831,
+        "name": "Crusader Kings III",
+        "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
+        "commentsUrl": "/game/pc/crusader-kings-iii",
+        "rating": "9",
+        "description": "Paradox Development Studio brings you the sequel to one of the most popular strategy games ever made. Crusader Kings III is the heir to a long legacy of historical grand strategy experiences and arrives with a host of new ways to ensure the success of your royal house.",
+        "price": "49,99€",
+        "genre": [
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 81090,
+        "name": "Football Manager 2020",
+        "url": "https://store.steampowered.com/app/1100600/Football_Manager_2020/",
+        "commentsUrl": "/game/switch/football-manager-2020-touch",
+        "rating": "9",
+        "description": "Run your football club, your way. Every decision counts in Football Manager 2020 with new features and polished game mechanics rewarding planning and progression like never before, empowering managers to develop and refine both your club’s and your own unique identity.",
+        "price": "4,49€",
+        "genre": [
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 21602,
+        "name": "Counter-Strike",
+        "url": "https://store.steampowered.com/app/10/CounterStrike/",
+        "commentsUrl": "/game/pc/counter-strike-global-offensive",
+        "rating": "10",
+        "description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "price": "8,19€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 43843,
+        "name": "It Takes Two",
+        "url": "https://store.steampowered.com/app/1426210/It_Takes_Two/",
+        "commentsUrl": "/game/playstation-4/it-takes-two",
+        "rating": "10",
+        "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges.",
+        "price": "15,99€",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 39487,
+        "name": "Arma 3",
+        "url": "https://store.steampowered.com/app/107410/Arma_3/",
+        "commentsUrl": "/game/pc/arma-3",
+        "rating": "9",
+        "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.",
+        "price": "27,99€",
+        "genre": [
+            "Action",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 27257,
+        "name": "FINAL FANTASY XIV Online",
+        "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/",
+        "commentsUrl": "/game/pc/final-fantasy-xiv-online-a-realm-reborn",
+        "rating": "9",
+        "description": "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world.",
+        "price": "9,99€",
+        "genre": [
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 5754,
+        "name": "Fall Guys: Ultimate Knockout",
+        "url": "https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/",
+        "commentsUrl": "/game/playstation-4/fall-guys-ultimate-knockout",
+        "rating": "9",
+        "description": "Fall Guys is a massively multiplayer party game with up to 60 players online in a free-for-all struggle through round after round of escalating chaos until one victor remains!",
+        "price": "19,99€",
+        "genre": [
+            "Action",
+            "Casual",
+            "Indie",
+            "Massively Multiplayer",
+            "Sports"
+        ]
+    },
+    {
+        "id": 57877,
+        "name": "Fallout 4",
+        "url": "https://store.steampowered.com/app/377160/Fallout_4/",
+        "commentsUrl": "/game/playstation-4/fallout-4",
+        "rating": "7",
+        "description": "Bethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 – their most ambitious game ever, and the next generation of open-world gaming.",
+        "price": "29,99€",
+        "genre": [
+            "RPG"
+        ]
+    },
+    {
+        "id": 15065,
+        "name": "eFootball PES 2021 SEASON UPDATE",
+        "url": "https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/",
+        "commentsUrl": "",
+        "rating": "7",
+        "description": "Celebrate 25 years of PES with the eFootball PES 2021 Season Update* - available at a special anniversary price!",
+        "price": "29,99€",
+        "genre": [
+            "Sports"
+        ]
+    },
+    {
+        "id": 64264,
+        "name": "tModLoader",
+        "url": "https://store.steampowered.com/app/1281930/tModLoader/",
+        "commentsUrl": "",
+        "rating": "10",
+        "description": "Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!",
+        "price": "Free",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Free to Play",
+            "Indie",
+            "RPG"
+        ]
+    },
+    {
+        "id": 90541,
+        "name": "VRChat",
+        "url": "https://store.steampowered.com/app/438100/VRChat/",
+        "commentsUrl": "/game/pc/vrchat",
+        "rating": "9",
+        "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
+        "price": "Free To Play",
+        "genre": [
+            "Adventure",
+            "Casual",
+            "Free to Play",
+            "Massively Multiplayer",
+            "Simulation",
+            "Sports",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 55113,
+        "name": "Total War: THREE KINGDOMS",
+        "url": "https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/",
+        "commentsUrl": "/game/pc/total-war-three-kingdoms",
+        "rating": "9",
+        "description": "Total War: THREE KINGDOMS is the first in the award-winning series to recreate epic conflict across ancient China. Combining a gripping turn-based campaign of empire-building & conquest with stunning real-time battles, THREE KINGDOMS redefines the series in an age of heroes & legends.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 58870,
+        "name": "F1 2020",
+        "url": "https://store.steampowered.com/app/1080110/F1_2020/",
+        "commentsUrl": "/game/playstation-4/f1-2020",
+        "rating": "9",
+        "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
+        "price": "20,47€",
+        "genre": [
+            "Racing",
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 32453,
+        "name": "Paladins",
+        "url": "https://store.steampowered.com/app/444090/Paladins/",
+        "commentsUrl": "/game/pc/paladins",
+        "rating": "9",
+        "description": "Join 25+ million players in Paladins, the free-to-play fantasy team-based shooter sensation. Wield guns and magic as a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 34790,
+        "name": "Factorio",
+        "url": "https://store.steampowered.com/app/427520/Factorio/",
+        "commentsUrl": "/game/pc/factorio",
+        "rating": "10",
+        "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+        "price": "15,99€",
+        "genre": [
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 89560,
+        "name": "Satisfactory",
+        "url": "https://store.steampowered.com/app/526870/Satisfactory/",
+        "commentsUrl": "/game/pc/satisfactory",
+        "rating": "10",
+        "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+        "price": "29,99€",
+        "genre": [
+            "Adventure",
+            "Indie",
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 86681,
+        "name": "SMITE",
+        "url": "https://store.steampowered.com/app/386360/SMITE/",
+        "commentsUrl": "/game/xbox-one/smite",
+        "rating": "9",
+        "description": "Join 35+ million players in SMITE, the Battleground of the Gods! Wield Thor’s hammer, turn your foes to stone as Medusa, or flex your divine power as one of 100+ other mythological icons. Become a God and play FREE today!",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play"
+        ]
+    },
+    {
+        "id": 12789,
+        "name": "No Man's Sky",
+        "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+        "commentsUrl": "/game/playstation-4/no-mans-sky",
+        "rating": "6",
+        "description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+        "price": "15,99€",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 8036,
+        "name": "Totally Accurate Battle Simulator",
+        "url": "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
+        "commentsUrl": "/game/ios/totally-accurate-battle-simulator",
+        "rating": "10",
+        "description": "Be the leader of wobblers from ancient lands, spooky places, and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created, make your own wobblers in the unit creator and send your army off to fight your friends in multiplayer.",
+        "price": "16,79€",
+        "genre": [
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 59352,
+        "name": "Dyson Sphere Program",
+        "url": "https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/",
+        "commentsUrl": "/game/pc/dyson-sphere-program",
+        "rating": "10",
+        "description": "Build the most efficient intergalactic factory in space simulation strategy game Dyson Sphere Program! Harness the power of stars, collect resources, plan and design production lines and develop your interstellar factory from a small space workshop to a galaxy-wide industrial empire.",
+        "price": "16,79€",
+        "genre": [
+            "Indie",
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 20342,
+        "name": "DARK SOULS™ III",
+        "url": "https://store.steampowered.com/app/374320/DARK_SOULS_III/",
+        "commentsUrl": "/game/playstation-4/dark-souls-iii",
+        "rating": "9",
+        "description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+        "price": "59,99€",
+        "genre": [
+            "Action"
+        ]
+    },
+    {
+        "id": 12334,
+        "name": "Forza Horizon 4",
+        "url": "https://store.steampowered.com/app/1293830/Forza_Horizon_4/",
+        "commentsUrl": "/game/xbox-one/forza-horizon-4",
+        "rating": "7",
+        "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world.",
+        "price": "69,99€",
+        "genre": [
+            "Racing"
+        ]
+    },
+    {
+        "id": 63814,
+        "name": "Eternal Return: Black Survival",
+        "url": "https://store.steampowered.com/app/1049590/Eternal_Return_Black_Survival/",
+        "commentsUrl": "/game/pc/eternal-return-black-survival",
+        "rating": "9",
+        "description": "Eternal Return is a unique MOBA/Battle Royale/Survival mix that combines strategy, mechanics, and cool characters. Choose one of the ever growing cast of characters, take on Lumia Island as one of 18 players - either solo or with a team, and prove your strength, ability, and wit.",
+        "price": "Free To Play",
+        "genre": [
+            "Free to Play",
+            "Indie",
+            "Strategy",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 47844,
+        "name": "Sea of Thieves",
+        "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves/",
+        "commentsUrl": "/game/xbox-one/sea-of-thieves",
+        "rating": "9",
+        "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting – everything you need to live the pirate life and become a legend in your own right. With no set roles, you have complete freedom to approach the world, and other players, however you choose.",
+        "price": "39,99€",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "id": 72768,
+        "name": "Path of Exile",
+        "url": "https://store.steampowered.com/app/238960/Path_of_Exile/",
+        "commentsUrl": "/game/pc/path-of-exile",
+        "rating": "9",
+        "description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you. Created by hardcore gamers, Path of Exile is an online Action RPG set in a dark fantasy world.",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Free to Play",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 65899,
+        "name": "NBA 2K20",
+        "url": "https://store.steampowered.com/app/1089350/NBA_2K20/",
+        "commentsUrl": "/game/stadia/nba-2k20",
+        "rating": "6",
+        "description": "2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization.",
+        "price": "49,99€",
+        "genre": [
+            "Simulation",
+            "Sports"
+        ]
+    },
+    {
+        "id": 68754,
+        "name": "World of Warships",
+        "url": "https://store.steampowered.com/app/552990/World_of_Warships/",
+        "commentsUrl": "/game/pc/world-of-warships",
+        "rating": "9",
+        "description": "Experience epic, free-to-play naval combat when you helm one of over 350 historic vessels in the exciting balance of strategy and real-time combat that World of Warships offers. Outfit your fleet with flags, camouflages, modifications, talented Commanders, and more!",
+        "price": "Free to Play",
+        "genre": [
+            "Action",
+            "Free to Play",
+            "Massively Multiplayer",
+            "Simulation"
+        ]
+    },
+    {
+        "id": 50900,
+        "name": "Albion Online",
+        "url": "https://store.steampowered.com/app/761890/Albion_Online/",
+        "commentsUrl": "/game/pc/albion-online",
+        "rating": "7",
+        "description": "Albion Online is a fantasy sandbox MMORPG featuring a player-driven economy, classless combat system, and intense PvP battles. Explore a vast open world full of danger and opportunity. Grow your wealth, forge alliances, and leave your mark on the world of Albion.",
+        "price": "Free to Play",
+        "genre": [
+            "Free to Play",
+            "Massively Multiplayer",
+            "RPG"
+        ]
+    },
+    {
+        "id": 6145,
+        "name": "It Takes Two Friend's Pass",
+        "url": "https://store.steampowered.com/app/1504980/It_Takes_Two_Friends_Pass/",
+        "commentsUrl": "",
+        "rating": "6",
+        "description": "Download Friend's Pass* and play It Takes Two with a friend for free. Just grab a friend who owns the full game, download Friend's Pass for free, and play together!",
+        "price": "15,99€",
+        "genre": []
+    },
+    {
+        "id": 31291,
+        "name": "Nioh 2 – The Complete Edition",
+        "url": "https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/",
+        "commentsUrl": "/game/playstation-4/nioh-2-the-complete-edition",
+        "rating": "9",
+        "description": "Battle hordes of yokai in this masocore Action RPG. Create your protagonist and embark on an adventure through a myriad of locales across Japan during the Sengoku period. Utilize the new Yokai Shift ability to defeat even the most ferocious yokai and be prepared to brave through Dark Realms created by your enemies.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "RPG"
+        ]
+    },
+    {
+        "id": 64253,
+        "name": "Elite Dangerous",
+        "url": "https://store.steampowered.com/app/359320/Elite_Dangerous/",
+        "commentsUrl": "/game/playstation-4/elite-dangerous",
+        "rating": "7",
+        "description": "Take control of your own starship in a cutthroat galaxy. Elite Dangerous is the definitive massively multiplayer space epic.",
+        "price": "34,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 8259,
+        "name": "Soundpad",
+        "url": "https://store.steampowered.com/app/629520/Soundpad/",
+        "commentsUrl": "/game/ios/piola-soundpad",
+        "rating": "10",
+        "description": "Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too.",
+        "price": "15,99€",
+        "genre": [
+            "Audio Production",
+            "Utilities"
+        ]
+    },
+    {
+        "id": 88100,
+        "name": "Conan Exiles",
+        "url": "https://store.steampowered.com/app/440900/Conan_Exiles/",
+        "commentsUrl": "/game/playstation-4/conan-exiles",
+        "rating": "7",
+        "description": "An online multiplayer survival game, now with mounts and mounted combat, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build a home and kingdom, dominate your enemies in single or multiplayer.",
+        "price": "39,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 7132,
+        "name": "Yu-Gi-Oh! Duel Links",
+        "url": "https://store.steampowered.com/app/601510/YuGiOh_Duel_Links/",
+        "commentsUrl": "/game/ios/yu-gi-oh!-duel-links",
+        "rating": "9",
+        "description": "Take on Duelists around the world with \"Yu-Gi-Oh! Duel Links\"! Step into a world that crosses dimensions and connects all Duelists. In Duel World, any location transforms into a Duel Field where heated Duels unfold!",
+        "price": "Free to Play",
+        "genre": [
+            "Free to Play",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 94047,
+        "name": "Borderlands 3",
+        "url": "https://store.steampowered.com/app/397540/Borderlands_3/",
+        "commentsUrl": "/game/playstation-4/borderlands-3",
+        "rating": "9",
+        "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds & enemies and save your home from the most ruthless cult leaders in the galaxy.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "RPG"
+        ]
+    },
+    {
+        "id": 83596,
+        "name": "Divinity: Original Sin 2",
+        "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/",
+        "commentsUrl": "/game/xbox-one/divinity-original-sin-enhanced-edition/trailers/5509005",
+        "rating": "10",
+        "description": "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God.",
+        "price": "44,99€",
+        "genre": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ]
+    },
+    {
+        "id": 68656,
+        "name": "Phasmophobia",
+        "url": "https://store.steampowered.com/app/739630/Phasmophobia/",
+        "commentsUrl": "/game/pc/phasmophobia",
+        "rating": "10",
+        "description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost hunting equipment at your disposal in order to gather as much evidence as you can.",
+        "price": "11,59€",
+        "genre": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ]
+    },
+    {
+        "id": 42387,
+        "name": "Hades",
+        "url": "https://store.steampowered.com/app/1145360/Hades/",
+        "commentsUrl": "/game/playstation-4/god-of-war-iii-remastered/trailers/5238059",
+        "rating": "10",
+        "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+        "price": "20,99€",
+        "genre": [
+            "Action",
+            "Indie",
+            "RPG"
+        ]
+    },
+    {
+        "id": 42268,
+        "name": "Assassin's Creed Odyssey",
+        "url": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/",
+        "commentsUrl": "/game/playstation-4/assassins-creed-odyssey",
+        "rating": "9",
+        "description": "Choose your fate in Assassin's Creed® Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece.",
+        "price": "59,99€",
+        "genre": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ]
+    }
 ]
