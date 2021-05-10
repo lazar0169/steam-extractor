@@ -1,6 +1,7 @@
 {
     "parser": "babel-eslint",
-    "extends": ["strongloop", "plugin:jest/recommended"],
+    "root": true,
+    "extends": ["plugin:prettier/recommended", "eslint:recommended" ,"plugin:jest/recommended"],
     "plugins": ["jest"],
     "parserOptions": {
       "ecmaVersion": 2020,
@@ -13,46 +14,58 @@
       "es6": true
     },
     "rules": {
-      "eqeqeq": [
-        "error",
-        "always",
-        {
-          "null": "ignore"
-        }
-      ],
-      "strict": "off",
-      "no-console": "off",
-      "object-curly-spacing": ["error", "always"],
-      "array-bracket-spacing": ["error", "always"],
-      "no-unused-vars": [
-        "error",
-        {
-          "argsIgnorePattern": "^_",
-          "varsIgnorePattern": "^_"
-        }
-      ],
-      "multiline-ternary": "off",
-      "max-len": [
-        "error",
-        {
-          "code": 120,
-          "tabWidth": 4,
-          "ignoreStrings": true,
-          "ignoreTemplateLiterals": true,
-          "ignoreRegExpLiterals": true
-        }
-      ],
-      "indent": ["error", 4],
-      "no-underscore-dangle": "off",
-      "import/extensions": "off",
-      "space-before-function-paren": [
-        "error",
-        {
-          "anonymous": "always",
-          "named": "never",
-          "asyncArrow": "always"
-        }
-      ]
+        "no-console": "off",
+        "no-debugger": "off",
+        "jest/no-test-callback": "off",
+        "eqeqeq": [
+            "error",
+            "always",
+            {
+                "null": "ignore"
+            }
+        ],
+        "strict": "off",
+        "object-curly-spacing": ["error", "always"],
+        "array-bracket-spacing": ["error", "never"],
+        "no-unused-vars": [
+            "error",
+            {
+                "argsIgnorePattern": "^_",
+                "varsIgnorePattern": "^_"
+            }
+        ],
+        "multiline-ternary": "off",
+        "max-len": [
+            "error",
+            {
+                "code": 120,
+                "tabWidth": 4,
+                "ignoreStrings": true,
+                "ignoreTemplateLiterals": true,
+                "ignoreRegExpLiterals": true
+            }
+        ],
+        "indent": ["error", 4],
+        "no-underscore-dangle": "off",
+        "import/extensions": "off",
+        "space-before-function-paren": [
+            "error",
+            {
+                "anonymous": "always",
+                "named": "never",
+                "asyncArrow": "always"
+            }
+        ],
+        "prettier/prettier": ["error", {
+            "endOfLine": "auto",
+            "printWidth": 120,
+            "tabWidth": 4,
+            "semi": true,
+            "singleQuote": true,
+            "trailingComma": "es5",
+            "bracketSpacing": true,
+            "jsxBracketSameLine": false
+        }]
     }
   }
   

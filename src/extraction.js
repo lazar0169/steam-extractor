@@ -59,7 +59,10 @@ const populate = async () => {
             const linkDom = getElemFromSite(commentsDom, '.result.first_result a');
             const commentsUrl = linkDom && linkDom.getAttribute('href');
             game.commentsUrl = commentsUrl;
-            const price = priceDom && (priceDom.textContent.includes('€') || priceDom.textContent.includes('Free')) ? priceDom.textContent.trim() : '15,99€';
+            const price =
+                priceDom && (priceDom.textContent.includes('€') || priceDom.textContent.includes('Free'))
+                    ? priceDom.textContent.trim()
+                    : '15,99€';
             const allMetas = getElemFromSite(dom, 'meta', true);
             let rating;
             for (let meta of allMetas) {

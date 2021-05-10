@@ -18,13 +18,12 @@ fastify.register(cors, corsOptions);
 fastify.register(session, cookieOptions);
 
 routes.forEach((route) => {
-    fastify.route(route);
+    return fastify.route(route);
 });
 
 const start = async () => {
     try {
         await fastify.listen(3000);
-
     } catch (err) {
         fastify.log.error(err);
         process.exit(1);

@@ -13,7 +13,7 @@ const getAllGames = async (_req, reply) => {
 const getSingleGame = async (req, reply) => {
     try {
         const id = Number(req.params.id);
-        let game = games.find(game => game.id === id);
+        let game = games.find((game) => game.id === id);
         if (!game.comments) {
             game.comments = await getCommentsFromUrl(game.commentsUrl);
         }
