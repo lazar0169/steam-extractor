@@ -55,6 +55,7 @@
     "fs-extra": "^9.1.0",
     "got": "^11.8.2",
     "jsonwebtoken": "^8.5.1",
+    "node-fetch": "^2.6.1",
     "pino-pretty": "^4.7.1",
     "uuid": "^8.3.2"
   }

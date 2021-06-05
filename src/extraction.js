@@ -1,6 +1,8 @@
 import got from 'got';
 import jsdom from 'jsdom';
 import fs from 'fs';
+import fetch from 'node-fetch';
+import faker from 'faker';
 import { promisify } from 'util';
 import pkg from 'tough-cookie';
 const { CookieJar } = pkg;
@@ -26,7 +28,10 @@ export const getCommentsFromUrl = async (url) => {
     const commElements = getElemFromSite(dom, '.reviews.user_reviews .blurb.blurb_expanded', true);
     const comments = [];
     for (let comm of commElements) {
-        comments.push(comm.textContent.trim().replace(/\n/g, '').replace(/\t/g, ''));
+        comments.push({
+            name: faker.name.findName(),
+            comment: comm.textContent.trim().replace(/\n/g, '').replace(/\t/g, '')
+        });
     }
     return comments;
 };
@@ -67,10 +72,14 @@ const populate = async () => {
             let rating;
             for (let meta of allMetas) {
                 if (meta.getAttribute('itemprop') === 'ratingValue') {
-                    rating = meta.content;
+                    rating = Number(meta.content);
                     break;
                 }
             }
+            const gameRes = await fetch(`https://store.steampowered.com/api/appdetails?appids=${game.id}`);
+            const gameInfo = await gameRes.json();
+            game.images = gameInfo[game.id].data.screenshots;
+            game.date = gameInfo[game.id].data.release_date.date
             game.rating = rating;
             game.description = desc;
             game.price = price;
@@ -95,10 +104,11 @@ export const get100games = async () => {
     const dom = await getSite('https://store.steampowered.com/stats/Steam-Game-and-Player-Statistics?l=t');
     const children = await getElemFromSite(dom, '.gameLink', true);
     for (let child of children) {
+        const link = child.getAttribute('href');
         all.push({
-            id: Math.floor(Math.random() * 100000),
+            id: link.split('/app/')[1].split('/')[0],
             name: child.textContent.trim(),
-            url: child.getAttribute('href'),
+            url: link,
         });
     }
     fs.writeFileSync('list.json', JSON.stringify(all));
