@@ -7,9 +7,9 @@ services:
             dockerfile: Dockerfile
         container_name: steam-extractor
         ports: 
-            - 3000:3000
+            - "4000:4000"
         volumes:
-            - './:/usr/steam-extractor/'
-            - '/usr/steam-extractor/node_modules'
+            - .:/usr/steam-extractor
+            - /usr/steam-extractor/node_modules
         environment: 
             - CHOKIDAR_USEPOLLING=true
