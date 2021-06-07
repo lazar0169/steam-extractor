@@ -104,3 +104,7 @@ dist
 .tern-port
 
 populated.json
+
+# Editors
+.vscode
+.idea
