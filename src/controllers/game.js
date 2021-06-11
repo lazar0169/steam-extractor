@@ -14,11 +14,11 @@ const getSingleGame = async (req, reply) => {
     try {
         const id = req.params.id;
         let game = games.find((game) => game.id === id);
-        if (game && !game.comments) {
-            game.comments = await getCommentsFromUrl(game.commentsUrl);
+        if (game) {
+            game.comments = game.comments || (await getCommentsFromUrl(game.commentsUrl));
             return reply.code(200).send({ Message: 'Success', data: game });
         }
-        return reply.code(404).send({ Message: "Game not found!" });
+        return reply.code(404).send({ Message: 'Game not found!' });
     } catch (err) {
         throw boom.boomify(err);
     }
